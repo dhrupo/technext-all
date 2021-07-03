@@ -1,0 +1,11 @@
+.comment-container {
+  background-color: #ede;
+  padding: 1rem;
+  /* border-radius: 20px; */
+}
+
+.comment {
+  background-color: #eee;
+  padding: 0.5rem;
+  margin: 1.2rem 0;
+}

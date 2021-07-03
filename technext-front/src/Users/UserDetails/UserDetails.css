@@ -1,0 +1,22 @@
+.user-container {
+  background-image: linear-gradient(to right, #eae, #edd);
+  padding: 2rem;
+  border-radius: 20px;
+}
+
+.user-post-container {
+  background-color: #ede;
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+.user-post {
+  background-color: #eee;
+  margin: 2rem;
+  padding: 1rem;
+  transition: all 0.3s;
+}
+
+.user-post:hover {
+  background-color: #eae;
+}

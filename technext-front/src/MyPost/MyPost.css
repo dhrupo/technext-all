@@ -1,0 +1,16 @@
+.mypost-container {
+  background-color: #ede;
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+.my-post {
+  background-color: #eee;
+  margin: 2rem;
+  padding: 1rem;
+  transition: all 0.3s;
+}
+
+.my-post:hover {
+  background-color: #eae;
+}
